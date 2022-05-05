@@ -1,0 +1,19 @@
+body {
+    background-color: #222;
+    color: #eee;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+a {
+    color: #eee;
+}
+ 
+#container {
+white-space: nowrap;
+}
+textarea {
+    width:300px;
+    height:300px;
+    padding:30px;
+}
+  
